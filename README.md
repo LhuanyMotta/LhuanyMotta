@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70909&background=FF58B300&width=1000&height=300&lines=Oi%2C+meu+nome+%C3%A9+Lhuany!;Tenho+22+anos.;E+estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=25&pause=1000&color=BF1F1F&center=falso&vCenter=falso&repeat=verdadeiro&width=460&height=70&separator=%3C&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+perfil%3CMeu+nome+%C3%A9+Lhuany+e+tenho+22+anos.%3CEstudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.%3CSou+de+Ji-Paran%C3%A1%2C+RO+-+Brasil+e+trabalho+na+%C3%A1rea+de+TI.%3CXauzinho!+;D" alt="Typing SVG" /></a>
 </p>
 <!--
 **LhuanyMotta/LhuanyMotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
