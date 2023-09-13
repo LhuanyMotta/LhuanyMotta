@@ -1,6 +1,6 @@
-### Hi there 👋
+######################################### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=15&pause=1000&color=FFFFFF&background=400A0A&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&width=460&height=70&lines=++++++++++++++++++++++++++++++++Ol%C3%A1%2C+me+chamo+Lhuany.;Tenho+22+anos.;Estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Sou+de+Ji-Paran%C3%A1%2C+RO+-+BR;E+atualmente+trabalho+na+%C3%A1rea+de+TI." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=15&pause=1000&color=FFFFFF&background=400A0A&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&width=460&height=70&lines=+\n+++++++++++++++++++++++++++++++Ol%C3%A1%2C+me+chamo+Lhuany.;Tenho+22+anos.;Estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Sou+de+Ji-Paran%C3%A1%2C+RO+-+BR;E+atualmente+trabalho+na+%C3%A1rea+de+TI." alt="Typing SVG" /></a>
 
 <!--
 **LhuanyMotta/LhuanyMotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
