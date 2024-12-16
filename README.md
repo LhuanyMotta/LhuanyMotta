@@ -73,14 +73,6 @@ Me chamo Lhuany Motta, tenho 23 anos e sou natural de Presidente Médici Rondôn
 />
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
     alt="C#"
     title="C#"
     width="30px" 
@@ -110,14 +102,6 @@ Me chamo Lhuany Motta, tenho 23 anos e sou natural de Presidente Médici Rondôn
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
 
@@ -152,6 +136,22 @@ Me chamo Lhuany Motta, tenho 23 anos e sou natural de Presidente Médici Rondôn
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
@@ -195,7 +195,7 @@ Me chamo Lhuany Motta, tenho 23 anos e sou natural de Presidente Médici Rondôn
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="180"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LhuanyMotta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -203,7 +203,7 @@ Me chamo Lhuany Motta, tenho 23 anos e sou natural de Presidente Médici Rondôn
   <img 
     align="left"
     alt="GitHub Stats" 
-    height="170" 
+    height="180"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuanymotta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
