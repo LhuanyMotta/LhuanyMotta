@@ -6,7 +6,7 @@
 
 Me chamo Lhuany Motta, tenho 23 anos e sou natural de Presidente Médici, Rondônia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Rondônia (IFRO) e sou apaixonada por tecnologia.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nTqZ6Z22F4)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhuany-thainara-motta-euz%C3%A9bio-20b354232/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lhuanymotta/profilecard/?igsh=MWlibHlkNXp6Yzh5NQ==)
 
