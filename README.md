@@ -11,9 +11,10 @@ Me chamo Lhuany Motta, tenho 23 anos e sou natural de Presidente Médici, Rondô
 
 ---
 
-<div align="center" style="display: inline_block"><br>
-    
 ### 🤖 Linguagens e Tecnologias
+
+<div style="display: inline_block"><br>
+
 <img align="center" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="center" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img align="center" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -38,9 +39,9 @@ Me chamo Lhuany Motta, tenho 23 anos e sou natural de Presidente Médici, Rondô
 <img align="center" alt="Canva" title="Canva" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"/><br/>
 </div>
 
-<div align="center">
-
 ### 📊 Estatísticas
+
+<div align="center">
 <img align="center" alt="GitHub Stats" height="175" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=LhuanyMotta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 <img align="center" alt="GitHub Stats" height="175" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuanymotta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
